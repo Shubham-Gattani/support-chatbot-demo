@@ -1,0 +1,6 @@
+PyPDF2
+langchain
+groq
+langchain-community
+transformers
+faiss-cpu  
